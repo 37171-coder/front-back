@@ -17,7 +17,7 @@
 //    has been blocked by CORS policy
 //
 export const API_URL =
-import.meta.env.VITE_API_URL || "https://github.com/37171-coder/frontend";
+import.meta.env.VITE_API_URL || "https://pereira-js.vercel.app/";
 
 // Chave usada para guardar o token no localStorage do navegador.
 export const CHAVE_SESSAO = "sessao-3c";
